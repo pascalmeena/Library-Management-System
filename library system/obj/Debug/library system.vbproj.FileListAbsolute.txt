@@ -1,0 +1,23 @@
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\bin\Debug\library system.exe.config
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\bin\Debug\library system.exe
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\bin\Debug\library system.pdb
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\bin\Debug\library system.xml
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.AdminForm.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.BorrowBook.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.RegisterForm.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.UpdateUserForm.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\library system.vbproj.GenerateResource.Cache
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\library system.exe
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\library system.xml
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\library system.pdb
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.ManageUsers.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.ManageBooks.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.searchForm.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.UserPortal.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.IssueBook.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.Dashboard.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.Reports.resources
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\library system.vbprojResolveAssemblyReference.cache
+C:\Users\PIZ\Documents\2014 courses\cmpt391\Labs\Project\library system\library system\obj\Debug\WindowsApplication1.libraryhours.resources
